@@ -21,5 +21,4 @@
 ![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
