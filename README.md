@@ -1,5 +1,5 @@
 <p align="center"><samp><b> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </b></samp></p>
-<p align="center"><h1 align="center"><samp> I’m Sarang vs </samp></h1></p>
+<p align="center"><h1 align="center"><samp> I’m Sarang vs </h1></p>
 <p align="center"><h4 align="center"><samp> A Junior Flutter Developer/samp></h4></p>
 <br>
 
@@ -13,19 +13,14 @@
 
 <h4><b><samp>Programming</samp></b></h4>
 
-![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)](https://muhd-ameen.github.io/)
-![SQFite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
-<!-- ![C](https://img.shields.io/badge/Go-ea2d2f?style=flat-square&logo=go&logoColor=white) -->
+![Dart](https://img.shields.io/badge/-dart-fff?style=for-the-badge&logo=dart&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
   
 <h4><b><samp>Tools and Technologies</samp></b></h4>
-![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white)
+<!-- ![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android--Studio-F7DF1E?style=for-the-badge&logo=Android-Studio&logoColor=black)](https://developer.android.com/studio)  
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)   -->
 
   
 </div>
