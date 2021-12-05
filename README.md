@@ -16,7 +16,7 @@
 ![Dart](https://img.shields.io/badge/-dart-fff?style=for-the-badge&logo=dart&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
   
-<h4><b><samp>Tools and Technologies</samp></b></h4>
+<!-- <h4><b><samp>Tools and Technologies</samp></b></h4> -->
 <!-- ![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)  
