@@ -5,10 +5,10 @@
 
 <div>
   
-  
+<!--   
 - 🔭 <samp>I’m currently learning flutter architecture
 - 💬 <samp>Ask me about Flutter.
-- 🥇 <samp>Open Source Contributor.
+- 🥇 <samp>Open Source Contributor. -->
 </div> 
 
 <h4><b><samp>Programming</samp></b></h4>
